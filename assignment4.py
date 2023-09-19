@@ -1,6 +1,3 @@
-#!python3
-
-Modify this program using comment structures so that
-only the print statement is executed.
-
+#! python4
+#print("something")
 print("Hello!")
